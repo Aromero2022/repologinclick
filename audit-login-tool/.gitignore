@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+*.xlsx
+*.txt
+!requirements.txt
+!README.md
+_extracted_*/
